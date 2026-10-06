@@ -50,7 +50,8 @@ pip install -r requirements.txt
 python -c "import nltk; nltk.download('stopwords')"
 python main.py
 ```
-
+Die vollständige Rohdatei der CFPB (ca. 1,4 GB gezippt) liegt wegen der Dateigrößen-Grenze von GitHub
+nicht im Repository. Für die Analyse wird sie nicht benötigt, da die Stichprobe unter `data/` enthalten ist.
 Laufzeit auf einem üblichen Laptop: Vorverarbeitung ca. 5 Minuten, Suche nach k ca. 30 bis 60 Minuten.
 
 ## Ergebnisse
