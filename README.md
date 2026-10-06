@@ -51,10 +51,6 @@ python -c "import nltk; nltk.download('stopwords')"
 python main.py
 ```
 
-Für Schritt 1 die Datei `complaints.csv` von
-<https://files.consumerfinance.gov/ccdb/complaints.csv.zip> entpacken und in den Ordner
-`../complaints/` neben dem Repository legen. Liegt die Stichprobe schon vor, wird Schritt 1 übersprungen.
-
 Laufzeit auf einem üblichen Laptop: Vorverarbeitung ca. 5 Minuten, Suche nach k ca. 30 bis 60 Minuten.
 
 ## Ergebnisse
