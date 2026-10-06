@@ -1,0 +1,7 @@
+kennzahl,wert
+Zeilen gesamt (alle Jahre),17571890
+mit Freitext in 2026,117945
+nach Entfernen exakter Duplikate,106223
+nach Entfernen sehr kurzer Texte (< 20 Wörter),103810
+Stichprobe,20000
+Median Wörter je Text (Stichprobe),191

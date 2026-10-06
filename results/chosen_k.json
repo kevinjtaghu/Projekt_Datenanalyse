@@ -1,0 +1,5 @@
+{
+  "LDA (BoW)": 14,
+  "NMF (BoW)": 4,
+  "NMF (TF-IDF)": 10
+}

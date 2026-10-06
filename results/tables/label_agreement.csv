@@ -1,0 +1,5 @@
+modell,label,nmi,ari
+LDA,product,0.272,0.167
+LDA,issue,0.262,0.115
+NMF,product,0.297,0.206
+NMF,issue,0.268,0.11
